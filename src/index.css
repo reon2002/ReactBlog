@@ -125,3 +125,26 @@
   border-radius: 8px;
   cursor:pointer;
 }
+
+.buttonSection{
+  text-align:center;
+}
+
+.delButton{
+  background-color:green;
+  width:400px;
+  height:30px;
+  color:white;
+  border:1px solid greenyellow;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delButton:hover{
+  box-shadow:3px 3px 5px grey;
+}
+
+.errorHead{
+  margin:auto;
+  font-family:'Times New Roman', Times, serif;
+}
